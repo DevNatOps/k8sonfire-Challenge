@@ -6,7 +6,8 @@
 ![](../Imagenes/02/imagen1.jpg)
 ### 3. Imagen donde se ve la información detallada del Pod .
 ![](../Imagenes/02/imagen2.jpg)
-### 4. Imagen donde se ve el fichero `index.html` del DocumentRoot .
+### 4. Imagen donde se ve el fichero `index.html` del DocumentRoot.
+![](../Imagenes/02/imagen3.jpg)
 ### 5. Imagen del navegador accediendo a la aplicación con el `port-forward` .
 ![](../Imagenes/02/imagen4.jpg)
 ### 6. Imagen donde se ve los logs de acceso del Pod .
